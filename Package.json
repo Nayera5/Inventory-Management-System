@@ -2,7 +2,7 @@
   "name": "sda_task",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Nayera5.github.io/inventory_management_system",
+  "homepage": "https://Nayera5.github.io/Inventory_Management_System",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
