@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/inventory_management_system/static/css/main.8dddc056.css",
-    "main.js": "/inventory_management_system/static/js/main.f472e65d.js",
-    "static/js/453.6a64594c.chunk.js": "/inventory_management_system/static/js/453.6a64594c.chunk.js",
-    "index.html": "/inventory_management_system/index.html",
-    "main.8dddc056.css.map": "/inventory_management_system/static/css/main.8dddc056.css.map",
-    "main.f472e65d.js.map": "/inventory_management_system/static/js/main.f472e65d.js.map",
-    "453.6a64594c.chunk.js.map": "/inventory_management_system/static/js/453.6a64594c.chunk.js.map"
+    "main.css": "/Inventory_Management_System/static/css/main.8dddc056.css",
+    "main.js": "/Inventory_Management_System/static/js/main.7ff1caee.js",
+    "static/js/453.6a64594c.chunk.js": "/Inventory_Management_System/static/js/453.6a64594c.chunk.js",
+    "index.html": "/Inventory_Management_System/index.html",
+    "main.8dddc056.css.map": "/Inventory_Management_System/static/css/main.8dddc056.css.map",
+    "main.7ff1caee.js.map": "/Inventory_Management_System/static/js/main.7ff1caee.js.map",
+    "453.6a64594c.chunk.js.map": "/Inventory_Management_System/static/js/453.6a64594c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8dddc056.css",
-    "static/js/main.f472e65d.js"
+    "static/js/main.7ff1caee.js"
   ]
 }
