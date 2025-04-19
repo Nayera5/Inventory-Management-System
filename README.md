@@ -1,4 +1,5 @@
 # Inventory-Management-System web application
+> # [Site here](https://nayera5.github.io/inventory_management_system/)
 ## ***Technologies Used***
 ### `Frontend: React, Bootstrap`
 ### `Backend: Flask, SQLAlchemy`
