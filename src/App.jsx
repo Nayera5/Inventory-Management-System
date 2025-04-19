@@ -60,7 +60,7 @@ import ItemList from './components/itemTable';
 
       return(
       <>
-        { <BrowserRouter>
+        { <BrowserRouter basename="/Inventory_Management_System">
           <Routes>
 
             <Route path="/" element={<Login />} />
